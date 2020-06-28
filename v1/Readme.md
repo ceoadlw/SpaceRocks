@@ -1,4 +1,5 @@
-First Version of the game.
-Basic functions added:
-1. Shooting
-2. Score and lives count
+SpaceRocks_v1
+
+1. Asteroids
+2. Shooting
+3. Score and Lives Count
