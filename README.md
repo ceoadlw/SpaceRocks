@@ -23,7 +23,7 @@ SpaceRocks_v3
 
 How to run:
 1. Just download and extract.
-2. Run the .exe file to play.
+2. Run the SpaceRocks.exe file to play.
 
 This is the final version of the game inspired by tutorials of FloatingCosmonaut. Do try and let me know if there are any issues. This is my first attempt so help me out to squash any bugs you find. Thank You!
 
